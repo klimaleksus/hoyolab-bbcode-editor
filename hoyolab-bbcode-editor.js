@@ -177,4 +177,4 @@ function show_popup(my_text) {
   });
 };
 
-//EOF
+// Licensed under WTFPL
